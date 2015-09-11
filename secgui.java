@@ -16,6 +16,11 @@ gui.go(money,people);}
 
 
 public void go(float money,float people){
+int a;
+
+
+
+
 JFrame frame=new JFrame();
 button=new JButton("点击开始分红包");
 button.addActionListener(this);
